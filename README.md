@@ -1,4 +1,4 @@
-# messaging app
+# messaging-app
 
 ### A project in my Fall 2021 Software Design class at Central College
 
