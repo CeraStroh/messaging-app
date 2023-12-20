@@ -63,9 +63,9 @@ public class MessageDriver {
         String password;
         String first = "Cera";
         String last = "Stroh";
-        String mail = "strohc1@central.edu";
-        String screen1 = "CeraS";
-        String pass = "caret";
+        String mail = "demo@central.edu";
+        String screen1 = "demo";
+        String pass = "example";
         users.register(first, last, mail, screen1, pass);
         String screen2 = "CeraStroh";
         users.register(first, last, mail, screen2, pass);
