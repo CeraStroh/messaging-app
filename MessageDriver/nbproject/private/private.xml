@@ -3,10 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ceras/OneDrive/Documents/NetBeansProjects/MessageDriver/src/messagedriver/MessageDriver.java</file>
-            <file>file:/C:/Users/ceras/OneDrive/Documents/NetBeansProjects/MessageDriver/src/messagedriver/User.java</file>
-            <file>file:/C:/Users/ceras/OneDrive/Documents/NetBeansProjects/MessageDriver/src/messagedriver/UserList.java</file>
-            <file>file:/C:/Users/ceras/OneDrive/Documents/NetBeansProjects/MessageDriver/src/messagedriver/AllMessagesList.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/FollowList.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/Leader.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/MessageDriver.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/Follower.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/User.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/AllMessagesList.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/UserList.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/PublicMessage.java</file>
+            <file>file:/C:/Users/ceras/bench/CeraStroh/messaging-app/MessageDriver/src/messagedriver/MessageList.java</file>
         </group>
     </open-files>
 </project-private>
